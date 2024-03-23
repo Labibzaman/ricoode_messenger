@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740154013912",
+    "project_id": "ricoode-532f9",
+    "storage_bucket": "ricoode-532f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740154013912:android:bc331adcaf5efd40c17fad",
+        "android_client_info": {
+          "package_name": "com.example.ricoode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsZqwUcJzXbzhUsMeApnquOyUYMlpnkwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
